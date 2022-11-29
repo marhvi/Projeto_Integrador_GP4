@@ -1,1 +1,2 @@
-# Projeto_Integrador_GP4
+# Projeto Integrador GP4:
+Desenvolver um Sistema Corporativo
